@@ -1,0 +1,68 @@
+#main{
+  font-family: Garamond;
+  width: 100%;
+  display: grid;
+  background: LightGray;
+}
+
+#title{
+  font-size: 45px;
+  text-align: center;
+}
+
+#title-info{
+  font-size: 20px;
+  font-weight: lighter;
+  margin-top: -10px;
+  text-align: center;
+}
+
+#image{
+  max-width: 100%;
+  margin: auto;
+  height: auto;
+  display: block;
+  text-align: center;
+}
+
+#img-div{
+  border: 10px solid white;
+  padding: -15px;
+  background: white;
+  text-align: center;
+}
+
+#img-caption{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  text-align: center;
+}
+
+#tribute-info-title{
+  margin-top: 35px;
+  font-size: 22.5px;
+  text-align: center;
+}
+
+#tribute-info{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+}
+
+#tribute-quote{
+  text-align: center;
+}
+
+#tribute-wiki{
+  margin-top: 5%;
+  font-size: 19px;
+  text-align: center;
+}
+
+#tribute-link{
+  margin-top: 5%;
+  font-size: 19px;
+  text-align: center;
+}
